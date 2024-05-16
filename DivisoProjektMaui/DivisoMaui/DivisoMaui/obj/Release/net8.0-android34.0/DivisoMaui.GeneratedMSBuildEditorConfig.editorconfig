@@ -1,0 +1,77 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android34.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DivisoMaui
+build_property.ProjectDir = C:\Users\kvist\Desktop\Skole\SkolePraktik\Diviso Projekt Maui\DivisoMaui\DivisoMaui\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+
+[C:/Users/kvist/Desktop/Skole/SkolePraktik/Diviso Projekt Maui/DivisoMaui/DivisoMaui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DivisoMaui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/kvist/Desktop/Skole/SkolePraktik/Diviso Projekt Maui/DivisoMaui/DivisoMaui/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DivisoMaui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/kvist/Desktop/Skole/SkolePraktik/Diviso Projekt Maui/DivisoMaui/DivisoMaui/ConfirmationModal.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DivisoMaui.ConfirmationModal.xaml
+build_metadata.AdditionalFiles.TargetPath = ConfirmationModal.xaml
+build_metadata.AdditionalFiles.RelativePath = ConfirmationModal.xaml
+
+[C:/Users/kvist/Desktop/Skole/SkolePraktik/Diviso Projekt Maui/DivisoMaui/DivisoMaui/FavoritePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DivisoMaui.FavoritePage.xaml
+build_metadata.AdditionalFiles.TargetPath = FavoritePage.xaml
+build_metadata.AdditionalFiles.RelativePath = FavoritePage.xaml
+
+[C:/Users/kvist/Desktop/Skole/SkolePraktik/Diviso Projekt Maui/DivisoMaui/DivisoMaui/FavPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DivisoMaui.FavPage.xaml
+build_metadata.AdditionalFiles.TargetPath = FavPage.xaml
+build_metadata.AdditionalFiles.RelativePath = FavPage.xaml
+
+[C:/Users/kvist/Desktop/Skole/SkolePraktik/Diviso Projekt Maui/DivisoMaui/DivisoMaui/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DivisoMaui.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/kvist/Desktop/Skole/SkolePraktik/Diviso Projekt Maui/DivisoMaui/DivisoMaui/Modal.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DivisoMaui.Modal.xaml
+build_metadata.AdditionalFiles.TargetPath = Modal.xaml
+build_metadata.AdditionalFiles.RelativePath = Modal.xaml
+
+[C:/Users/kvist/Desktop/Skole/SkolePraktik/Diviso Projekt Maui/DivisoMaui/DivisoMaui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DivisoMaui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/kvist/Desktop/Skole/SkolePraktik/Diviso Projekt Maui/DivisoMaui/DivisoMaui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DivisoMaui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/kvist/Desktop/Skole/SkolePraktik/Diviso Projekt Maui/DivisoMaui/DivisoMaui/Search.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DivisoMaui.Search.xaml
+build_metadata.AdditionalFiles.TargetPath = Search.xaml
+build_metadata.AdditionalFiles.RelativePath = Search.xaml

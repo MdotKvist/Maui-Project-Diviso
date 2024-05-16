@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DivisoMaui.MainPage"
+             BackgroundColor="White">
+
+    <ScrollView>
+        <Grid Padding="30,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <!-- Tilføj denne række for LoginBtn -->
+            </Grid.RowDefinitions>
+
+            <Image
+                Grid.Row="0"
+                Grid.ColumnSpan="2"
+                Source="diviso_logo.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="diviso logo no text" />
+
+            <Label
+                Grid.Row="1"
+                Grid.ColumnSpan="2"
+                Text="Login"
+                Style="{StaticResource Headline}"/>
+            
+            <Grid Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <Entry  x:Name="passwordEntry"
+                        IsPassword="True"
+                        Placeholder="Indtast password"
+                        SemanticProperties.Description="password entry" 
+                        HeightRequest="40"
+                        MinimumWidthRequest="300"
+                        Grid.Column="0"
+                        HorizontalOptions="FillAndExpand"
+                        VerticalOptions="Start"/>   
+
+                <ImageButton Source="eye.png" 
+                             Command="{Binding TogglePasswordVisibilityCommand}" 
+                             SemanticProperties.Description="Toggle password visibility" 
+                             WidthRequest="30" 
+                             HeightRequest="30"
+                             Grid.Column="1"
+                             VerticalOptions="Start"/>
+                
+            </Grid>
+            <Button
+                Grid.Row="3"
+                Grid.ColumnSpan="2"
+                x:Name="LoginBtn"
+                Text="Login" 
+                Clicked="OnLoginClicked" 
+                Margin="10,10,10,10"/>
+
+        </Grid>
+    </ScrollView>
+
+</ContentPage>
