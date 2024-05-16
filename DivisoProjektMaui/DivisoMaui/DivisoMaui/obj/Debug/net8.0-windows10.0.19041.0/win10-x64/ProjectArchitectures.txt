@@ -1,1 +1,1 @@
-C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\DivisoMaui.csproj;x64
+C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\DivisoMaui.csproj;x64

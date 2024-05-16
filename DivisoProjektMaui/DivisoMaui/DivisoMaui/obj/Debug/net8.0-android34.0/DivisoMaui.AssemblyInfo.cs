@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DivisoMaui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d69ca355a4cc7b8a831fb7beb5bcf0363084eb92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2a1fe10657c828e3d3934463ea9d6d4f1d45478e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DivisoMaui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DivisoMaui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

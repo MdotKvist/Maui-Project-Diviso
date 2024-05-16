@@ -48,13 +48,17 @@ namespace DivisoMaui
 
         private async void SearchAddress(string query)
         {
+            // Creates an HttpClient to make a HTTP requests
             using (var client = new HttpClient())
             {
+                // Define the api's url
                 string apiUrl = $"https://dawa.aws.dk/adresser/autocomplete?q={query}";
                 var response = await client.GetAsync(apiUrl);
 
+                // // Checks if the response is a success
                 if (response.IsSuccessStatusCode)
                 {
+                    // Converts the JSON string to a list of addresses
                     var json = await response.Content.ReadAsStringAsync();
                     autocompleteSuggestions = JsonSerializer.Deserialize<List<DawaAddress>>(json);
 
@@ -65,7 +69,7 @@ namespace DivisoMaui
                 else
                 {
                     // Handle error
-                    Console.WriteLine("Error fetching autocomplete suggestions");
+                    Debug.WriteLine("Error fetching autocomplete suggestions");
                 }
             }
         }
@@ -83,9 +87,6 @@ namespace DivisoMaui
                 // Save the selected address
                 SaveAddress(selectedAddress.tekst);
                 Debug.WriteLine(selectedAddress.tekst);
-
-                //// Clear the selection to allow selecting the same item again
-                //autocompleteCollectionView.SelectedItem = null;
             }
         }
         private void SaveAddress(string address)
@@ -111,7 +112,7 @@ namespace DivisoMaui
             Console.WriteLine($"Gemt fil til: {filePath}");
         }
 
-
+        // Navigate to FavoritePage
         private void ButtonclickedFav(object sender, EventArgs e)
         {
             var Fav = new FavoritePage(savedAddresses);

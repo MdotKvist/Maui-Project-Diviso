@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Text.Json;
 using System.Threading.Tasks;
@@ -16,6 +17,7 @@ namespace DivisoMaui
         public ConfirmationModal(string selectedAddress, IList<string> savedAddresses)
         {
             InitializeComponent();
+
             this.selectedAddresses = selectedAddress;
             SavedAddresses = savedAddresses;
         }
@@ -26,7 +28,7 @@ namespace DivisoMaui
             {
                 SavedAddresses.Remove(selectedAddresses);
 
-                // Opdater JSON-filen med de nye adresser
+                // Udates JSON file with new addresses
                 await UpdateJsonFile(SavedAddresses);
 
                 await Navigation.PopModalAsync();
@@ -37,28 +39,28 @@ namespace DivisoMaui
         {
             try
             {
-                // Få adgang til appens datamappe
+                // Define Path to JSON file
                 var fileSystem = FileSystem.Current;
                 string filePath = Path.Combine(fileSystem.AppDataDirectory, "saved_addresses.json");
 
-                // Serialiser den opdaterede liste til en JSON-streng
+                // Converts Json File to string variable called json
                 string json = JsonSerializer.Serialize(updatedAddresses);
 
-                // Gem JSON-strengen til filen
+                // Save JSON string to the Json file
                 await File.WriteAllTextAsync(filePath, json);
 
-                Console.WriteLine($"Opdateret JSON-fil med {updatedAddresses.Count} adresser.");
+                Debug.WriteLine($"Updated JSON file With {updatedAddresses.Count} adresses.");
             }
             catch (Exception ex)
             {
                 // Behandle eventuel fejl
-                Console.WriteLine($"Fejl ved opdatering af JSON-fil: {ex.Message}");
+                Debug.WriteLine($"Error while updating JSON-fil: {ex.Message}");
             }
         }
 
         private void CloseButton_Clicked(object sender, EventArgs e)
         {
-            // Luk modalen
+            // Close modal
             Navigation.PopModalAsync();
         }
     }

@@ -5,17 +5,20 @@ namespace DivisoMaui
 {
     public partial class MainPage : ContentPage
     {
-        string correctPassword = "1234"; // Den korrekte password
+        string correctPassword = "1234"; // The correct password
 
         public MainPage()
         {
             InitializeComponent();
             
+            // Makes databinding on this page possible
             BindingContext = this;
         }
 
+        // Command that toggles password visibility
         public ICommand TogglePasswordVisibilityCommand => new Command(TogglePasswordVisibility);
 
+        // This Functions sets the command for the ability to toggle password visibility
         private void TogglePasswordVisibility()
         {
             if (passwordEntry.IsPassword)
@@ -28,23 +31,26 @@ namespace DivisoMaui
             }
         }
 
+        // Event handler for the login button
         void OnLoginClicked(object sender, EventArgs e)
         {
+            // Gets the entered password from the password entry
             string enteredPassword = passwordEntry.Text;
 
+            // Checks to see if the password matches the Variable enteredPassword
             if (enteredPassword == correctPassword)
             {
-                // Fra din nuværende side
+                // Navigates to Search pages if password is correct
                 var search = new Search();
                 Navigation.PushAsync(search);
-                Debug.WriteLine("Du er nu logget ind!");
+                Debug.WriteLine("You have been logged in!");
             }
             else
             {
-                // Vise modal popup
+                // Shows modal popup if password is incorrect
                 var modal = new Modal();
                 Navigation.PushModalAsync(modal);
-                Debug.WriteLine("Ugyldigt password. Prøv igen.");
+                Debug.WriteLine("Password does not match up. Try again.");
             }
         }
 

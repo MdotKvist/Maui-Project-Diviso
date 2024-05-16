@@ -3,47 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\favoritepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\favoritepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kvist\\AppData\\Local\\Temp\\.vsdbgsrc\\40aac89ccac0997b43c9eb0eac7f001a8a61bb86\\Search.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\modal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\modal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\favoritepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\favoritepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\confirmationmodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\confirmationmodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\confirmationmodal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\confirmationmodal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\favoritepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\favoritepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kvist\\AppData\\Local\\Temp\\.vsdbgsrc\\40aac89ccac0997b43c9eb0eac7f001a8a61bb86\\Search.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\confirmationmodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\confirmationmodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,16 +90,8 @@
       "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\divisomaui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\divisomaui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\confirmationmodal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\confirmationmodal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\divisomaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -95,10 +99,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kvist\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.21\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\modal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|solutionrelative:divisomaui\\modal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7C19717-A825-43DD-9E18-A3A77E62DD74}|DivisoMaui\\DivisoMaui.csproj|c:\\users\\kvist\\documents\\github\\maui-project-diviso\\divisoprojektmaui\\divisomaui\\divisomaui\\modal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -116,20 +116,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 1123,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Search.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Search.xaml.cs",
               "RelativeDocumentMoniker": "DivisoMaui\\Search.xaml.cs",
               "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Search.xaml.cs",
               "RelativeToolTip": "DivisoMaui\\Search.xaml.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAgwG8AAAAJAAAA",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAH4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T10:55:31.626Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -139,7 +140,7 @@
               "RelativeDocumentMoniker": "DivisoMaui\\Search.xaml",
               "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Search.xaml",
               "RelativeToolTip": "DivisoMaui\\Search.xaml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAnwDMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-07T09:56:55.398Z",
               "IsPinned": true,
@@ -147,13 +148,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ConfirmationModal.xaml",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\ConfirmationModal.xaml",
               "RelativeDocumentMoniker": "DivisoMaui\\ConfirmationModal.xaml",
               "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\ConfirmationModal.xaml",
               "RelativeToolTip": "DivisoMaui\\ConfirmationModal.xaml",
-              "ViewState": "AQIAABYAAAAAAAAAAEBVwBsAAAAtAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAABhwBsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-08T10:09:08.531Z",
               "IsPinned": true,
@@ -161,13 +162,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
               "Title": "ConfirmationModal.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\ConfirmationModal.xaml.cs",
               "RelativeDocumentMoniker": "DivisoMaui\\ConfirmationModal.xaml.cs",
               "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\ConfirmationModal.xaml.cs",
               "RelativeToolTip": "DivisoMaui\\ConfirmationModal.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowD0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T10:11:47.372Z",
               "IsPinned": true,
@@ -175,13 +176,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FavoritePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\FavoritePage.xaml.cs",
               "RelativeDocumentMoniker": "DivisoMaui\\FavoritePage.xaml.cs",
               "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\FavoritePage.xaml.cs",
               "RelativeToolTip": "DivisoMaui\\FavoritePage.xaml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAwAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T08:35:28.279Z",
               "IsPinned": true,
@@ -189,13 +190,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "FavoritePage.xaml",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\FavoritePage.xaml",
               "RelativeDocumentMoniker": "DivisoMaui\\FavoritePage.xaml",
               "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\FavoritePage.xaml",
               "RelativeToolTip": "DivisoMaui\\FavoritePage.xaml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAbAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-13T08:35:12.028Z",
               "IsPinned": true,
@@ -212,58 +213,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Search.xaml.sg.cs",
-              "DocumentMoniker": "C:\\Users\\kvist\\AppData\\Local\\Temp\\.vsdbgsrc\\40aac89ccac0997b43c9eb0eac7f001a8a61bb86\\Search.xaml.sg.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\40aac89ccac0997b43c9eb0eac7f001a8a61bb86\\Search.xaml.sg.cs",
-              "ToolTip": "C:\\Users\\kvist\\AppData\\Local\\Temp\\.vsdbgsrc\\40aac89ccac0997b43c9eb0eac7f001a8a61bb86\\Search.xaml.sg.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\40aac89ccac0997b43c9eb0eac7f001a8a61bb86\\Search.xaml.sg.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAnwB0AAAADAAAA",
+              "Title": "Modal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Modal.xaml.cs",
+              "RelativeDocumentMoniker": "DivisoMaui\\Modal.xaml.cs",
+              "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Modal.xaml.cs",
+              "RelativeToolTip": "DivisoMaui\\Modal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:38:11.317Z",
+              "WhenOpened": "2024-05-08T10:06:50.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "DivisoMaui\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\MainPage.xaml.cs",
+              "RelativeToolTip": "DivisoMaui\\MainPage.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:42:13.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\MainPage.xaml",
-              "RelativeDocumentMoniker": "DivisoMaui\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\MainPage.xaml",
-              "RelativeToolTip": "DivisoMaui\\MainPage.xaml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-08T10:42:11.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\App.xaml.cs",
-              "RelativeDocumentMoniker": "DivisoMaui\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\App.xaml.cs",
-              "RelativeToolTip": "DivisoMaui\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T08:45:37.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\AppShell.xaml",
-              "RelativeDocumentMoniker": "DivisoMaui\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\AppShell.xaml",
-              "RelativeToolTip": "DivisoMaui\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T05:53:23.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "DivisoMaui\\AppShell.xaml.cs",
@@ -276,7 +251,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DivisoMaui\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\App.xaml.cs",
+              "RelativeToolTip": "DivisoMaui\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:45:37.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\App.xaml",
               "RelativeDocumentMoniker": "DivisoMaui\\App.xaml",
@@ -289,7 +277,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
+              "Title": "Search.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\kvist\\AppData\\Local\\Temp\\.vsdbgsrc\\40aac89ccac0997b43c9eb0eac7f001a8a61bb86\\Search.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\40aac89ccac0997b43c9eb0eac7f001a8a61bb86\\Search.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\kvist\\AppData\\Local\\Temp\\.vsdbgsrc\\40aac89ccac0997b43c9eb0eac7f001a8a61bb86\\Search.xaml.sg.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\40aac89ccac0997b43c9eb0eac7f001a8a61bb86\\Search.xaml.sg.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAnwB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:38:11.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "DivisoMaui\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\MainPage.xaml",
+              "RelativeToolTip": "DivisoMaui\\MainPage.xaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T10:42:11.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "DivisoMaui\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\AppShell.xaml",
+              "RelativeToolTip": "DivisoMaui\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T05:53:23.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Platforms\\Windows\\App.xaml.cs",
               "RelativeDocumentMoniker": "DivisoMaui\\Platforms\\Windows\\App.xaml.cs",
@@ -302,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "splash.svg",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Resources\\Splash\\splash.svg",
               "RelativeDocumentMoniker": "DivisoMaui\\Resources\\Splash\\splash.svg",
@@ -315,33 +342,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Colors.xaml",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Resources\\Styles\\Colors.xaml",
               "RelativeDocumentMoniker": "DivisoMaui\\Resources\\Styles\\Colors.xaml",
               "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Resources\\Styles\\Colors.xaml",
               "RelativeToolTip": "DivisoMaui\\Resources\\Styles\\Colors.xaml",
-              "ViewState": "AQIAAAUAAAAAAAAAAOBvwCwAAAAVAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAACBzwCwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-13T09:03:39.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Styles.xaml",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Resources\\Styles\\Styles.xaml",
               "RelativeDocumentMoniker": "DivisoMaui\\Resources\\Styles\\Styles.xaml",
               "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Resources\\Styles\\Styles.xaml",
               "RelativeToolTip": "DivisoMaui\\Resources\\Styles\\Styles.xaml",
-              "ViewState": "AQIAAPMAAAAAAAAAAOBvwAoAAAAkAAAA",
+              "ViewState": "AQIAAPAAAAAAAAAAACBzwAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-13T12:54:00.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "DivisoMaui\\Platforms\\Android\\MainApplication.cs",
@@ -354,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "colors.xml",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Platforms\\Android\\Resources\\values\\colors.xml",
               "RelativeDocumentMoniker": "DivisoMaui\\Platforms\\Android\\Resources\\values\\colors.xml",
@@ -367,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "DivisoMaui\\Platforms\\Android\\MainActivity.cs",
@@ -380,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Platforms\\Windows\\App.xaml",
               "RelativeDocumentMoniker": "DivisoMaui\\Platforms\\Windows\\App.xaml",
@@ -393,20 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "DivisoMaui\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\MainPage.xaml.cs",
-              "RelativeToolTip": "DivisoMaui\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:42:13.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "DivisoMaui",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\DivisoMaui.csproj",
               "RelativeDocumentMoniker": "DivisoMaui\\DivisoMaui.csproj",
@@ -418,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Microsoft.Maui.Controls.targets",
               "DocumentMoniker": "C:\\Users\\kvist\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.21\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.21\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
@@ -431,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "DivisoMaui.csproj",
               "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\DivisoMaui.csproj",
               "RelativeDocumentMoniker": "DivisoMaui\\DivisoMaui.csproj",
@@ -453,19 +467,6 @@
               "ViewState": "AQIAAD0AAAAAAAAAAIAwwEoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T12:38:13.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Modal.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Modal.xaml.cs",
-              "RelativeDocumentMoniker": "DivisoMaui\\Modal.xaml.cs",
-              "ToolTip": "C:\\Users\\kvist\\Documents\\GitHub\\Maui-Project-Diviso\\DivisoProjektMaui\\DivisoMaui\\DivisoMaui\\Modal.xaml.cs",
-              "RelativeToolTip": "DivisoMaui\\Modal.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:06:50.539Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

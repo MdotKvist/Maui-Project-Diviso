@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.divisomaui</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>DDE9401D5547521436FB5779A0E9CFCBBE19432824ACD3DFE2E99FDCBC78134E</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.divisomaui_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.divisomaui_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,280 +26,280 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-14T09:42:29.644</Modified>
+      <Modified>2024-05-16T09:26:46.832</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-05-14T09:42:29.441</Modified>
+      <Modified>2024-05-16T09:25:02.195</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DivisoMaui.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DivisoMaui.runtimeconfig.json">
       <PackagePath>DivisoMaui.runtimeconfig.json</PackagePath>
-      <Modified>2024-05-14T09:38:03.897</Modified>
+      <Modified>2024-05-16T09:25:02.007</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DivisoMaui.dll">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DivisoMaui.dll">
       <PackagePath>DivisoMaui.dll</PackagePath>
-      <Modified>2024-05-14T09:42:28.226</Modified>
+      <Modified>2024-05-16T09:26:46.527</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DivisoMaui.exe</PackagePath>
-      <Modified>2024-05-14T09:42:28.274</Modified>
+      <Modified>2024-05-16T09:26:46.532</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-05-07T08:30:02.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-05-13T12:04:08.651</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-05-13T12:04:08.667</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-05-13T12:04:08.691</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-05-13T12:04:08.726</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-05-13T12:04:08.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-05-07T08:30:02.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-05-07T08:30:02.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-05-13T12:04:10.581</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-05-13T12:04:11.137</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-05-13T12:04:11.164</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-05-13T12:04:11.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-05-13T12:04:11.226</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-05-13T12:04:11.368</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-05-13T12:04:10.726</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-05-13T12:04:10.732</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-05-13T12:04:10.762</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-05-13T12:04:10.738</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-05-13T12:04:10.746</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-05-13T12:04:10.680</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-05-13T12:04:10.687</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-05-13T12:04:10.718</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-05-13T12:04:10.694</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-05-13T12:04:10.702</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-05-13T12:04:10.594</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-05-13T12:04:10.600</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-05-13T12:04:10.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-05-13T12:04:10.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-05-13T12:04:10.628</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-05-13T12:04:10.634</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-05-13T12:04:10.646</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-05-13T12:04:10.673</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-05-13T12:04:10.652</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-05-13T12:04:10.659</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-05-13T12:04:10.868</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-05-13T12:04:10.881</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-05-13T12:04:10.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-05-13T12:04:10.917</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-05-13T12:04:10.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-05-13T12:04:10.814</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-05-13T12:04:10.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-05-13T12:04:10.831</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-05-13T12:04:10.840</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-05-13T12:04:10.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-05-13T12:04:10.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-05-13T12:04:10.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-05-13T12:04:10.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-05-13T12:04:10.792</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-05-13T12:04:10.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-05-13T12:04:10.974</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-05-13T12:04:10.991</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-05-13T12:04:11.013</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-05-13T12:04:11.042</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-05-13T12:04:11.116</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diviso_logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diviso_logo.scale-100.png">
       <PackagePath>diviso_logo.scale-100.png</PackagePath>
       <Modified>2021-08-31T14:57:47.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diviso_logo_withtext.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diviso_logo_withtext.scale-100.png">
       <PackagePath>diviso_logo_withtext.scale-100.png</PackagePath>
       <Modified>2021-08-31T14:57:35.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-05-13T12:04:10.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-05-13T12:04:10.595</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-05-13T12:04:10.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-05-13T12:04:10.638</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-05-13T12:04:10.730</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\eye.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\eye.scale-100.png">
       <PackagePath>eye.scale-100.png</PackagePath>
       <Modified>2024-05-13T10:20:04.264</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kvist\Desktop\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DivisoMaui.deps.json">
+    <AppxPackagedFile Include="C:\Users\kvist\Documents\GitHub\Maui-Project-Diviso\DivisoProjektMaui\DivisoMaui\DivisoMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DivisoMaui.deps.json">
       <PackagePath>DivisoMaui.deps.json</PackagePath>
-      <Modified>2024-05-14T09:42:29.221</Modified>
+      <Modified>2024-05-16T09:25:01.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kvist\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

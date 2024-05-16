@@ -11,7 +11,7 @@ namespace DivisoMaui
 
         private void CloseButton_Clicked(object sender, EventArgs e)
         {
-            // Luk modalen
+            // Close modal
             Navigation.PopModalAsync();
         }
     }

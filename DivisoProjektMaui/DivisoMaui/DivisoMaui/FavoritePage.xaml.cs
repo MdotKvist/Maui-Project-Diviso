@@ -26,25 +26,28 @@ namespace DivisoMaui
                 var fileSystem = FileSystem.Current;
                 string filePath = Path.Combine(fileSystem.AppDataDirectory, "saved_addresses.json");
 
-                // Read json file save in variabel
+                // Read json file and save in variabel
                 string json = await File.ReadAllTextAsync(filePath);
 
-                // Deserialise JSON-string to list of adresses
+                // Convert JSON-string to list of adresses
                 SavedAddresses = JsonSerializer.Deserialize<List<string>>(json);
             }
             catch (Exception ex)
             {
                 // Behandle eventuel fejl
-                Console.WriteLine($"Fejl ved læsning af JSON-fil: {ex.Message}");
+                Debug.WriteLine($"Error while reading JSON file: {ex.Message}");
             }
         }
 
 
         private void DeleteSelectedButtonClicked(object sender, EventArgs e)
         {
+            // Retrieve the currently selected item from the ListView
             selectedItem = addressesListView.SelectedItem as string;
+            // Check if there is a selected item and that it's not empty
             if (!string.IsNullOrEmpty(selectedItem))
             {
+                // Navigate to the ConfirmationModal page
                 var Confmodal = new ConfirmationModal(selectedItem, SavedAddresses);
                 Navigation.PushModalAsync(Confmodal);
 
@@ -55,14 +58,17 @@ namespace DivisoMaui
 
         private void searchEntry_TextChanged(object sender, TextChangedEventArgs e)
         {
+            // Get the text value from the search entry
             string searchText = e.NewTextValue;
 
+            // If search entry is empty show the list SavedAdrresses
             if (string.IsNullOrEmpty(searchText))
             {
                 addressesListView.ItemsSource = SavedAddresses;
             }
             else
             {
+                // else show the filtered list
                 addressesListView.ItemsSource = null;
                 addressesListView.ItemsSource = SavedAddresses
                  .Where(address => Regex.IsMatch(address, searchText, RegexOptions.IgnoreCase))
@@ -71,7 +77,7 @@ namespace DivisoMaui
             }
         }
 
-
+        // Navigate to Search page
         private async void ButtonClickedSearched(object sender, EventArgs e)
         {
             await Navigation.PopAsync();
@@ -81,10 +87,10 @@ namespace DivisoMaui
         {
             base.OnAppearing();
 
-            // Læs gemte adresser fra JSON-filen
+            // Read saved adresses from JSON filen
             await LoadSavedAddressesFromJsonFile();
 
-            // Opdater ItemsSource her
+            // Calls function ItemsSource
             UpdateItems();
         }
 
